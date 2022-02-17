@@ -1,1 +1,3 @@
 Hello, Git!!!
+
+git@github.com:makdim5/simple_rep.git
